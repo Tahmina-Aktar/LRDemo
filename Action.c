@@ -1,6 +1,5 @@
 Action()
 {
-//my first doubt
 	web_custom_request("web_custom_request",
 		"URL=http://www.example.com",
 		"Method=GET",
